@@ -17,7 +17,7 @@ module RethinkDB
             {% if fields[:defaults] && fields[:defaults][k] %}
               {{k}} = {{fields[:defaults][k]}},
             {% else %}
-              {{k}} : {{v}},
+              {{k}} = nil,
             {% end %}
           {% end %}
         {% end %}
