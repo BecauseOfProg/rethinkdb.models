@@ -1,2 +1,2 @@
 require "spec"
-require "../src/rethinkdbmodels"
+require "../src/rethinkdb.models"

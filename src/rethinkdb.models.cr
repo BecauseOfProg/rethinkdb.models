@@ -1,5 +1,5 @@
-require "./rethinkdbmodels/*"
+require "./rethinkdb.models/*"
 
 # TODO: Write documentation for `Rethinkdbmodels`
-module Rethinkdbmodels
+module Rethinkdb
 end

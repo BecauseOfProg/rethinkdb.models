@@ -8,7 +8,7 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  rethinkdbmodels:
+  rethinkdb.models:
     github: whaxion/rethinkdb.models
 ```
 
