@@ -1,5 +1,7 @@
 # rethinkdb.models
 
+⚠ Because I don't use RethinkDB anymore this project is DISCONTINUED ⚠
+
 A really simple ORM (only fetch, save and destroy) for RethinkDB in Crystal
 
 ## Installation
